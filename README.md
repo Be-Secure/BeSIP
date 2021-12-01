@@ -18,11 +18,11 @@ Artifact tracker projects: [CodeQL role](https://github.com/Be-Secure/ansible-ro
 <br><p>
 ### **BeSIP - GitLab security** <br>
 
-Improvment plan in integration with GitLab application. <br>
+Improvement plan in integration with GitLab application. <br>
 The pre-works are updated under [BeSman wiki for Gitlab-Security](https://github.com/Be-Secure/BeSman/wiki/Analysis-on-Gitlab-Security)<br>
 
 ### **BeSIP - Sonatype lift** <br>
-Improvment plan in integration with Sonatype lift application. <br>
+Improvement plan in integration with Sonatype lift application. <br>
 The pre-works are updated under [BeSman wiki for Sonatype-lift](https://github.com/Be-Secure/BeSman/wiki/Analysis-on-sonatype-lift)<br>
 
 
