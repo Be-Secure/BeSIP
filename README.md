@@ -34,26 +34,11 @@ Improvment plan in integration with WhileSource Cure application.
 <br><br>
 # BeSIP Key terms
 
-Key Teams related with BeSIP:
-
-### Tracked projects:
-
-*   Projects which are tracked by Be-Secure
-*   Expecting atleast one pipeline for scanning
-
-### Untracked projects
-
-*   Projects which are not coming under Be-Secure
-*   Create pipeline for such project
-
-### Partial opensource projects.  
-
-*   Can be Tracked or untracked.
-*   It includes the OSS which contains non-open source part.
-*   Todo: Identify a plan for this group
-
-### bes-ql prefix
-
-* This will indicate the bes environment with with codeQL scanner tool installed.
-* While using this environment user will get environment with bes environment provision tool and a CodeQL scanner
-* eg. ```bes-ql-javaspring-dev```
+#### Key Teams related with BeSIP:
+  
+| Term                        | Description                                                                                                                                                                                                                |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tracked projects            | Projects which are tracked by Be-Secure.                                                                                                                                                                                   |
+| Untracked projects          | Projects which are not coming under Be-Secure                                                                                                                                                                              |
+| Partial opensource projects | It can be Tracked or untracked. It includes the OSS which contains non-open source part.                                                                                                                                   |
+| bes-ql prefix               | This will indicate the bes environment with with codeQL scanner tool installed. While using this environment user will get environment with bes environment provision tool and a CodeQL scanner, eg. bes-ql-javaspring-dev |
